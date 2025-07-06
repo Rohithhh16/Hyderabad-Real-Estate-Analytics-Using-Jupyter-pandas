@@ -11,7 +11,7 @@ The data was scraped from CommonFloor and includes attributes like price, area, 
 ```
 .
 ├── Dataset.csv                 # 📊 Main dataset with 23,970 property records
-├── EDA_PROJECT.ipynb           # 📒 Jupyter notebook performing EDA
+├── Script.ipynb           # 📒 Jupyter notebook performing EDA
 └── README.md                   # 📄 Project overview and documentation
 ```
 
@@ -89,7 +89,7 @@ pip install pandas numpy matplotlib seaborn
 
 1. Clone the repo or download the files
 2. Launch Jupyter Notebook
-3. Open `EDA_PROJECT.ipynb`
+3. Open `Script.ipynb`
 4. Run all cells to explore insights and visualizations
 
 ---
